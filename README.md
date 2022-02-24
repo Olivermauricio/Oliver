@@ -1,6 +1,6 @@
 # Oliver<div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/Mauricio Oliveira /"><i>Mauricio Oliveira </i></a> 🐺</h1>
-  <p align="center">Estudo HTML <a href="https://www.betrybe.com/"><i>Trybe</i></a> Busco desenvolver minha empresa na area de desenvolvimento <a href=><i></i></a><span> 👉🏽️</span>
+  <p align="center">Estudo HTML, busco criar minha empresa na area de desenvolvimento <a href=><i></i></a><span> �🏽️</span>
   <a align="rigth"  href=_blank">
     <img width="10%" align="center" valign="middle" src=_blank" />
   </a><br>
