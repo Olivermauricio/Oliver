@@ -2,7 +2,6 @@
   <h1 align="center"> <a href="https://www.linkedin.com/in/Mauricio Oliveira /"><i>Mauricio Oliveira </i></a> 🐺</h1>
   <p align="center">Estudo HTML, busco criar minha empresa na area de desenvolvimento 
 
-    <img width="10%" align="center" valign="middle" src=_blank" />
   </a><br>
   <p align="center">Em busca do meus sonhos!!</h2>
 </div>
